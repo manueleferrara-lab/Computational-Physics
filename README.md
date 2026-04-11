@@ -1,7 +1,7 @@
 Fisica Computazionale
 Applicazione delle leggi fisiche per la simulazione e l'analisi di fenomeni comune. Modellizzazione di fenomeni su larga scala provenienti dalla fisica non lineare.
 Il metodo di risoluzione delle equazioni differenziali è Runge-Kutta. Viene implementato anche l'event detection & location.
-Le librerie implementate sono: Numpy per il calcolo numerico rapido, Scipy per le funzioni scientifiche e Matplotlib per la visualizzazione dei grafici.
+Le librerie implementate sono: Numpy per il calcolo numerico vettorizzato, Scipy per le funzioni scientifiche e Matplotlib per la visualizzazione dei grafici.
 La repository è in continuo aggiornamento.
 
 Computational Physics
